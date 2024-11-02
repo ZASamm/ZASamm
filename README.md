@@ -4,9 +4,6 @@
 I'm working towards becoming a Full Stack Software Developer currently enrolled in a High Preformance Skills Bootcamp with Code Insitute. I'm passionate about creating web applications and constantly expanding my programming knowledge.
 
 ## 🌱 I'm currently learning
-- HTML
-- CSS
-- Bootstrap
 - JavaScript 
 - Python 
 - Django
