@@ -7,9 +7,9 @@ I'm working towards becoming a Full Stack Software Developer currently enrolled 
 - HTML
 - CSS
 - Bootstrap
-- JavaScript (upcoming)
-- Python (upcoming)
-- Django (upcoming)
+- JavaScript 
+- Python 
+- Django
 
 ## 💼 Skills
 - HTML5
